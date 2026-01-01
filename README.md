@@ -13,7 +13,7 @@ I enjoy turning repetitive tasks into **automated solutions**, making life easie
 ---
 
 ### 🔧 Technologies & Tools
-Python | Kubernetes | Docker | API Automation | Web Scraping | Git | Linux | VS Code
+Python | Kubernetes | Docker | API Automation | Web Scraping | Linux
 
 ---
 
